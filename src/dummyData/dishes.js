@@ -2,42 +2,42 @@ export const DISHES =
     [
         {
         id: 0,
-        name:'Uthappizza',
-        image: '/assets/images/uthappizza.png',
+        name:'Pizza',
+        image: '/assets/images/pizza.jpg',
         category: 'mains',
         label:'Hot',
         price:'4.99',
         featured: true,
-        description:'A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer.'                    
+        description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'                    
         },
         {
         id: 1,
-        name:'Zucchipakoda',
-        image: '/assets/images/zucchipakoda.png',
+        name:'Burger',
+        image: '/assets/images/burger.jpeg',
         category: 'appetizer',
         label:'',
         price:'1.99',
         featured: false,
-        description:'Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce'
+        description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'                    
         },
         {
         id: 2,
-        name:'Vadonut',
-        image: '/assets/images/vadonut.png',
+        name:'Fries',
+        image: '/assets/images/fries.jpg',
         category: 'appetizer',
         label:'New',
         price:'1.99',
         featured: false,
-        description:'A quintessential ConFusion experience, is it a vada or is it a donut?'
+        description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'                    
         },
         {
         id: 3,
-        name:'ElaiCheese Cake',
-        image: '/assets/images/elaicheesecake.png',
+        name:'Buffet',
+        image: '/assets/images/buffet.png',
         category: 'dessert',
         label:'',
         price:'2.99',
         featured: false,
-        description:'A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms'
+        description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'                    
         }
     ];

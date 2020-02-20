@@ -3,7 +3,7 @@ import {Container, Row, Col, Card, CardImg, CardText, CardBody, CardTitle, CardS
 
       const CardRender=({item})=>{
          return (
-         <Card>
+         <Card style={{height:'500px',overflow:'scroll'}}>
             <CardImg src={item.image} alt={item.name}/>
             <CardBody>
       <CardTitle>{item.name}</CardTitle>
